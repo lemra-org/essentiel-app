@@ -514,7 +514,7 @@ packages:
       name: showcaseview
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.0+1"
+    version: "2.0.3"
   simple_animations:
     dependency: "direct main"
     description:
